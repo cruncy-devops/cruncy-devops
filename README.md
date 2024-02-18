@@ -52,13 +52,13 @@ linux | ubuntu | alpine | centOS
 
 DevOps Stack
 
-aws gcp ansible terraform jenkins circleci codeship bamboo docker harbor kubernetes harbor traefik nginx logstash kibana promethues graphite
+Aws | Gcp | Ansible | Terraform | Jenkins | Circleci | Codeship | Bamboo | Docker | Harbor | Kubernetes | Nginx | Logstash | Kibana | Promethues | Graphite
 
 Project Management Stack
 
-git github bitbucket jira trello
+Git | Github | Bitbucket | Jira | Trello
 
 
 Editor / IDE I ♥
 
-sublime intellij vs-code 
+Sublime | Intellij | Vs-code 
